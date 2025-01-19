@@ -6,7 +6,7 @@ request:
 
 # 要抓取的 issues 配置
 issues:
-  repo: weekdaycare/Friends-issue # 仓库持有者/仓库名
+  repo: shinianlaojinmao/Friends-issue # 仓库持有者/仓库名
   label: active  # 只能配置1个或留空，留空则所有open的issue都会被抓取。配置1个时，issue只有在具有该标签时才被抓取
   groups: # 填写用来分组的label名称。留空则所有被抓取的issue输出至data.json，否则按照输出与组名同名的json文件
   sort: # updated-desc # 排序，按最近更新，取消此项则按创建时间排序
@@ -51,7 +51,7 @@ rss_subscribe:
   your_blog_url: https://weekdaycare.cn/
   email_template: "./rss_subscribe/email_template.html"
   website_info:
-    title: "星日语"
+    title: "阿黄说"
 
 # SMTP 配置
 # 解释：使用其中的相关配置实现上面两种功能，若无推送要求可以不配置，请将以上两个配置置为false
