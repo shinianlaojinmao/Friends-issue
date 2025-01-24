@@ -1,0 +1,40 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "XAOXUU",
+      "url": "https://XAOXUU.COM",
+      "avatar": "https://xaoxuu.com/assets/xaoxuu/avatar/rect-256@2x.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "浩瀚星河博客",
+      "url": "haohanxinghe.com",
+      "avatar": "https://haohanxinghe.com/assets/images/avatar.jpg",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "Achuan-2",
+      "url": "https://achuan-2.github.io/",
+      "avatar": "https://fastly.jsdelivr.net/gh/Achuan-2/Picbed@pic/assets/1666805474234Achuan.jpg",
+      "screenshot": "https://fastly.jsdelivr.net/gh/Achuan-2/Picbed@pic/assets/1666805527244Snipaste_2022-10-27_01-31-59.png",
+      "description": "一条没有故事的巛"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "5mg",
+      "url": "https://5mg.fun/",
+      "avatar": "",
+      "screenshot": "",
+      "description": ""
+    }
+  ]
+}
